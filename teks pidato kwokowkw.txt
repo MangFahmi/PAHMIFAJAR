@@ -1,0 +1,32 @@
+BISMILLAH....
+Assalamualaikum wr wb.
+wokehhh ,  saya akan menjelaskan singkat tentang program nya.. BLAAAAAAAAAABLAAAAAAAAAAAA.....
+
+program ini menggunakan metode CRUD untuk pemesanan tiket... cooiii
+
+bagian strukur data ada arraylist(tiket) dan array(untuk ngirim data ke tabel)
+settingan tombol saya buat agar berbatas, ketika masuk aplikasi makan hanya bisa 
+menekan tombol pesan dan clear, ketika ingin menghapus dan mengedit maka klik dlu
+salah satu kolom di tabel sampai data tersebut kembali ke form maka tombol edit/hapus
+akan aktif dan tombol pesan akan mati, setelah menekan edit/hapus maka tombol edit/hapus
+akan mati dan tombol pesan akan aktif kembali...
+kenapa saya buat seperti itu, karena menghindari kesalahan klik tombol yang akan mengakibatkan
+duplikasi data....
+
+sekian penjelasan  singkatnya dari saya pak assalamuakum wr wb... terimakasih 
+
+njay berasa pidato owkwokowk
+
+MANTAAPPPPP!!!!!!!!
+SIAP KAN MENTAALLLLLL!!!!!!!!!!!!!
+SISA NYA TAWAKAL KEPADA ALLAH SWT!!!!!!!!!!!
+HARTA TAHTA NILAI A :)
+CANDA NILAI A 
+JGN LUPA SHOLAT & BACA DOAAAAAA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@PAHMI FAJAR S.Kom
+wokwokowkowkowkowkwok!!!!!!!!!!!
+
+ya ALLAH kenapa cupu banget Hamba mu ini ya ALLAH gini aja berasa menghadapi kiamat
+#CandaKiamat
+Ayolah diriku jgn cupu lah baru menghadapi DUNIA aja lu cupu gini arghhhhhh!!!!!!!! :(
+YOKKK BISA YOKKKKK INI HANYA DUNIA COIIIII!!!!!!!!
